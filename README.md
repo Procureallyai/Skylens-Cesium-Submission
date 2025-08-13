@@ -22,6 +22,7 @@ A comprehensive CesiumJS application demonstrating expert-level usage across mul
 - **Production Architecture**: Full CI/CD deployment on Azure
 
 ## 🏗️ Architecture
+<img width="3840" height="2659" alt="Skylens_diagram _ Mermaid Chart-2025-08-12-233318" src="https://github.com/user-attachments/assets/f15c27b7-8cd9-44b9-bd27-7a7c4f487e00" />
 
 ![Architecture Diagram](docs/architecture-diagram.png)
 
