@@ -5,6 +5,7 @@
 
 A comprehensive CesiumJS application demonstrating expert-level usage across multiple domains: time-dynamic flight visualization, advanced camera controls, 3D tiles styling, natural language interfaces, and weather integration.
 
+Video link: https://docs.google.com/videos/d/1z_HIgJtO21Gb_D97eob4DEVc6JbJ7oIU6JDPWzh24xs/edit?usp=sharing
 ## 🎯 Cesium Expertise Demonstrated
 
 ### Core CesiumJS Features
