@@ -136,5 +136,5 @@ screenshots/                # UI demonstration images
 
 **Submission for Cesium Certified Developer Program**  
 **Project**: Skylens London Flight Weather 3D  
-**Developer**: [Your Name]  
+**Developer**: Live  
 **Date**: August 2025
